@@ -1,4 +1,4 @@
-# Puppeteer script to use same local instance of the browser
+# Puppeteer script to use same local instance of the chrome browser
 
 
 
