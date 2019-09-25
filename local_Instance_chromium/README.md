@@ -1,15 +1,15 @@
-#Puppeteer script to use same local instance of the browser
+# Puppeteer script to use same local instance of the browser
 
 
 
-####Dependency
+#### Dependency
  ``` Nodejs```,
  ``` Puppeteer```
  
-#### To Install Puppeteer
+####  To Install Puppeteer
 ```npm i puppeteer```
 
-####Run Puppeteer Script
+#### Run Puppeteer Script
 
 ```node localInstanceChromium.js```
  
